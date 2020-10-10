@@ -5,7 +5,7 @@ Studying at King Mongkut's Institute of Technology Ladkrabang.
 **I love Japanese songs.**  
 **#1 美波**
 
-[http://cardeer.github.io/](https://cardeer.github.io/)
+[https://cardeer.github.io/](https://cardeer.github.io/)
 
 ```js
 `Last updated: ${new Date().toLocaleString()}`
