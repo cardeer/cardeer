@@ -2,7 +2,7 @@
 I'm a Web Developer.  
 Studying at King Mongkut's Institute of Technology Ladkrabang.  
 
-**I love Japanese songs.**  
+**Love Japanese songs.**  
 **#1 美波**
 
 [https://cardeer.github.io/](https://cardeer.github.io/)
