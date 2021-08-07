@@ -1,5 +1,5 @@
 ### Hello ˋ( ° ▽、° ) ˋ
-I'm a Web Developer.  
+I'm a web developer.  
 Studying Computer Science at King Mongkut's Institute of Technology Ladkrabang.  
 
 **Love Japanese songs.**  
