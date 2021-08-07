@@ -1,6 +1,6 @@
 ### Hello ˋ( ° ▽、° ) ˋ
 I'm a Web Developer.  
-Studying at King Mongkut's Institute of Technology Ladkrabang.  
+Studying Computer Science at King Mongkut's Institute of Technology Ladkrabang.  
 
 **Love Japanese songs.**  
 **#1 美波**
