@@ -1,9 +1,7 @@
 ### Hello ˋ( ° ▽、° ) ˋ
-I'm a web developer.  
-Studying Computer Science at King Mongkut's Institute of Technology Ladkrabang.  
+I'm a computer science student at King Mongkut's Institute of Technology Ladkrabang, Thailand.
 
-**Love Japanese songs.**  
-**#1 美波**
+**美波** **美波** **美波** **美波** **美波**
 
 My website: [https://cardeer.dev](https://cardeer.dev/about)  
 GitLab: [https://gitlab.com/cardeer](https://gitlab.com/cardeer)
