@@ -1,5 +1,5 @@
 ### Hello ˋ( ° ▽、° ) ˋ
-I'm a computer science student at King Mongkut's Institute of Technology Ladkrabang, Thailand.
+I'm a computer science student at King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand.
 
 **美波** **美波** **美波** **美波** **美波**
 
