@@ -1,5 +1,5 @@
 ### Hello ˋ( ° ▽、° ) ˋ
-Studied computer science student at King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand.
+Studied computer science at King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand.
 
 Interested in operating systems, compilers, module bundlers, and typing.
 
